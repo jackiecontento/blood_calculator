@@ -64,6 +64,4 @@ def output_LDL_analysis(LDL_result, analyze_LDL_result):
     print("The LDL result is {}".format(LDL_result))
     print("That is {}".format(analyze_LDL_result))
 
-
 interface()
-
